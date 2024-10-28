@@ -1,0 +1,57 @@
+{
+    "l3info": {
+        "week1": [
+            "2023-9-1",
+            {
+                "type": "CM",
+                "subject": "web",
+                "teacher": "zoe",
+                "location": "B002",
+                "timeSE": [
+                    0,
+                    8
+                ],
+                "date": [
+                    1
+                ]
+            },
+            {
+                "type": "TD",
+                "subject": "BD",
+                "teacher": "zoe",
+                "location": "B002",
+                "timeSE": [
+                    9,
+                    18
+                ],
+                "date": [
+                    2
+                ]
+            }
+        ],
+        "week2": [
+            {
+                "type": "!!!!!",
+                "subject": "",
+                "teacher": "",
+                "location": "",
+                "date": 1,
+                "time": "1",
+                "number": 1
+            }
+        ]
+    },
+    "M1info": {
+        "week2": [
+            {
+                "type": "!!!!!",
+                "subject": "",
+                "teacher": "",
+                "location": "",
+                "date": 1,
+                "time": "1",
+                "number": 1
+            }
+        ]
+    }
+}

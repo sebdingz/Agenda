@@ -1,0 +1,53 @@
+/*课程表样式*/
+.class_schedule {
+    width: 1000px;
+}
+
+.tableCourse {
+    table-layout: fixed;
+    width: 100%;
+}
+
+.th_course, .td_course, .tableCourse {
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(156, 202, 213);
+    padding: 10px 8px;
+}
+
+.headCourse {
+    background-color: rgb(193, 235, 248);
+}
+
+.th_course {
+    text-align: center;
+}
+
+.j1, .j2, .j3, .j4, .j5 , .j14 , .j15, .j16, .j17, .j18{
+    background-color: aquamarine;
+}
+
+.j6, .j7, .j8, .j9, .j10, .j19, .j20, .j21, .j22 {
+    background-color: rgb(235, 204, 163);
+}
+
+.j11, .j12, .j13 , .j23{
+    background-color: rgb(104, 115, 197);
+}
+
+.course_location {
+    font-weight: bold;
+}
+
+/*提示文字样式*/
+.course_remind {
+    color: red;
+    display: none;
+}
+td {
+    height: 10px;
+}
+
+
+
+
